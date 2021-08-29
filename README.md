@@ -1,2 +1,2 @@
-# python
+# moto g5sのスクリーンショットファイルをpngからjpgにした後、exifにファイル名から撮影日を追加するプログラム
 simple python codes
